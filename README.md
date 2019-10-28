@@ -6,3 +6,5 @@ BeehiveZ is developed by Institute of Information System and Engineering, School
 We implement both of TLP(Token Log Profile)-based process model similarity measuring and #TAR complete log generating approaches in BeehiveZ. The zip package here contains all you need.  
 
 If you want to use initial version of BeehiveZ, please refer to https://github.com/jintao05/BeehiveZ. 
+
+If you already get the project of BeehiveZ, you could just download the 'cn.zip' to substitute that in 'src' folder. 
