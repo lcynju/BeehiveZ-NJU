@@ -1,5 +1,5 @@
 # BeehiveZ-NJU
-Process Model Similarity Measuring and COmplete Log Generator
+Process Model Similarity Measuring and Complete Log Generator
 
 BeehiveZ is developed by Institute of Information System and Engineering, School of Software, Tsinghua University, used for business process model and business process instance management, covering the topics of mining, comparison, indexing, query and so on.
 
@@ -11,3 +11,4 @@ If you already get the project of BeehiveZ, you could just download the 'cn.zip'
 
 # \#TAR Complete Log Generator
 Modles-#TAR.zip contains models for evaluating the Log Generator for #TAR complete logs. 
+
